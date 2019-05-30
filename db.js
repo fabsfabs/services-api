@@ -95,6 +95,6 @@
               "images":"https://www.acantocomunicazione.it/newsite/assets/placeholder/atlasplan.png"
             }             
 		    ]
-		},    
+		}    
 	]
 }
