@@ -35,7 +35,7 @@
 		{
 		    "name":"Social Strategy",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit seddo eiusmodtempor incididunt ut labore et dolore magna aliqua.",
-		    "download":"",
+		    "download":"-",
         "projects":[    
 		        {
               "project":"full services",
@@ -67,7 +67,7 @@
 		{
 		    "name":"Analytics",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit seddo eiusmodtempor incididunt ut labore et dolore magna aliqua.",
-		    "download":"",
+		    "download":"-",
         "projects":[    
 		        {
               "project":"full services",
