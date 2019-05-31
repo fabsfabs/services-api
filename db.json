@@ -39,6 +39,12 @@
 			              "client":"atlas concorde",
 			              "images":"https://www.acantocomunicazione.it/newsite/assets/placeholder/hsd.png",
 						  "slug":"atlas-concorde"								
+			            }, 
+					        {
+			              "project":"Events",
+			              "client":"eden",
+			              "images":"https://www.acantocomunicazione.it/newsite/assets/placeholder/hsd.png",
+						  "slug":"eden"								
 			            }             
 					]					
 				},
