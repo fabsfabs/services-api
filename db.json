@@ -1,7 +1,7 @@
 {
 	"services": [
 		{
-			"id":"1",
+			"id":"marketing",
 			"title":"Marketing",
 			"slug":"marketing",
 			"image":"https://www.acantocomunicazione.it/newsite/assets/placeholder/m.png",
@@ -70,7 +70,7 @@
 			]
 		},
 		{
-			"id":"2",
+			"id":"graphic-design",
 			"title":"Graphic Design",
 			"slug":"graphic-design",
 			"image":"https://www.acantocomunicazione.it/newsite/assets/placeholder/g.png",
