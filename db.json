@@ -39,12 +39,6 @@
 			              "client":"atlas concorde",
 			              "images":"https://www.acantocomunicazione.it/newsite/assets/placeholder/hsd.png",
 						  "slug":"atlas-concorde"								
-			            },
-					        {
-			              "project":"Journey",
-			              "client":"TeamSystem",
-			              "images":"https://www.acantocomunicazione.it/newsite/assets/placeholder/atlasplan.png",
-						  "slug":"teamsystem"								
 			            }             
 					]					
 				},
